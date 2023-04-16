@@ -1,0 +1,14 @@
+{
+    "name": "AllInclusive",
+    "version": "1.0.0",
+    "description": "An extension for inclusive Speaking and Presenting Language.",
+    "manifest_version": 3,
+    "author": "Sri Ram",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "AllInclusive"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
